@@ -1,0 +1,138 @@
+<resources>
+    <string name="app_name">Makanan Khas Indonesia</string>
+    <string name="foods_name">Nama Makanan Khas Indonesia</string>
+    <string name="data_name">data_name</string>
+    <string name="data_photo">data_photo</string>
+    <string name="data_recipe">data_recipe</string>
+    <string name="data_description">data_description</string>
+    <string name="data_context">data_context</string>
+    <string name="description">Deskripsi</string>
+    <string name="profil">Profil</string>
+    <string-array name="data_name">
+        <item>Coto Makassar</item>
+        <item>Nasi Goreng</item>
+        <item>Nasi Padang</item>
+        <item>Pempek</item>
+        <item>Soto Banjar</item>
+        <item>Rendang</item>
+        <item>Bika Ambon</item>
+        <item>Mie Aceh</item>
+        <item>Sop Konro</item>
+        <item>Serabi</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Coto Makassar merupakan kuliner khas dari Sulawesi Selatan. Sajian coto ini sebenarnya tak berbeda jauh dengan jenis soto dari daerah lain di nusantara. Tapi, Coto Makassar memiliki kekhasan berupa bumbu rempah dan kacang untuk membuat kuah yang kental. Biasanya coto dimakan bersama ketupat, kacang, ditaburi daun bawang dan perasan jeruk nipis.</item>
+        <item>Meskipun sejarah nasi goreng bukan asli nusantara, menu kuliner ini berhasil bercampur dengan budaya setempat. Bahkan nasi goreng menjadi menu kuliner nusantara khas daerah di Indonesia. Seperti nasi goreng babat terkenal di daerah Jawa Tengah tepatnya di kota Semarang.</item>
+        <item>Nasi padang adalah kuliner yang berasal dari Minangkabau, Sumatera Barat. Kuliner yang berupa nasi dengan lauk-pauk berbumbu rempah ini mudah dijumpai di seluruh Indonesia bahkan di mancanegara.  Hal itu karena, budaya orang Minangkabau yang senang merantau dan berjualan nasi padang sebagai salah satu sumber mata pencaharian. Kemudian, ada faktor peristiwa sejarah yang mendasar orang Minangkabau keluar dari daerahnya.</item>
+        <item>Pempek adalah makanan yang terbuat dari daging ikan yang digiling lembut yang dicampur tepung kanji atau tepung sagu, serta komposisi beberapa bahan lain seperti telur, bawang putih yang dihaluskan, penyedap rasa, dan garam. Pempek biasanya disajikan dengan kuah yang disebut cuka yang memiliki rasa asam, manis, dan pedas.</item>
+        <item>Soto Banjar adalah soto khas suku Banjar, Kalimantan Selatan dengan bahan utama daging ayam serta memiliki aroma harum rempah-rempah seperti kayu manis, biji pala, dan cengkih. Soto ini berisi daging ayam yang sudah disuwir-suwir, dengan tambahan perkedel, kentang rebus, rebusan telur, potongan wortel dan ketupat. Seperti halnya soto ayam, bumbu soto Banjar berupa bawang merah, bawang putih dan merica, tetapi tidak memakai kunyit. Bumbu ditumis lebih dulu dengan sedikit minyak goreng atau minyak samin hingga harum sebelum dimasukkan ke dalam kuah rebusan ayam. Rempah-rempah nantinya diangkat agar tidak ikut masuk ke dalam mangkuk sewaktu dihidangkan.</item>
+        <item>Rendang kuliner khas Minangkabau Sumatra Barat adalah hidangan berbahan dasar daging yang dihasilkan dari proses memasak suhu rendah dalam waktu lama dengan menggunakan aneka rempah-rempah dan santan. Proses memasaknya memakan waktu berjam-jam (biasanya sekitar empat jam) hingga yang tinggal hanyalah potongan daging berwarna hitam pekat dan dedak. Dalam suhu ruangan, rendang dapat bertahan hingga berminggu-minggu. Rendang yang dimasak dalam waktu yang lebih singkat dan santannya belum mengering disebut kalio, berwarna cokelat terang keemasan.</item>
+        <item>Bika ambon adalah kue tradisional khas Medan, Indonesia. Kue ini terbuat dari bahan-bahan seperti tepung tapioka, telur, gula, dan santan. Bika ambon dimasak selama 12 jam agar dapat bertahan dalam kondisi terbaik dan sesuai apa yang diinginkan selama empat hari karena setelahnya kue tersebut mulai mengeras. Kue basah ini biasanya memiliki jaring-jaring pada bagian dalam. Bika ambon juga dijual dengan berbagai varian rasa, seperti pandan, coklat, keju, dan lain-lain.</item>
+        <item>Mi aceh adalah masakan mi pedas khas Aceh di Indonesia. Mi kuning tebal dengan irisan daging sapi, daging kambing atau makanan laut (udang dan cumi) disajikan dalam sup sejenis kari yang gurih dan pedas. Mi aceh biasanya ditaburi dengan bawang goreng dan disajikan bersama emping, potongan bawang merah, mentimun, dan jeruk nipis. Mi aceh biasanya disajikan dalam tiga bentuk yaitu mi kuah, mi goreng basah, dan mi goreng kering.</item>
+        <item>Sup konro atau Pallu konro adalah masakan sup iga sapi khas Indonesia yang berasal dari tradisi Etnik Makassar. Sup ini biasanya dibuat dengan bahan iga sapi atau daging sapi. Masakan berkuah warna coklat kehitaman ini biasa dimakan dengan burasa dan ketupat yang dipotong-potong terlebih dahulu. Warna gelap ini berasal dari buah kluwek yang memang berwarna hitam. Bumbunya relatif "kuat" akibat digunakannya ketumbar. Rasa pedas dan berbumbu ini dibuat dari campuran rempah-rempah, seperti ketumbar, keluwak (buah yang menyebabkan masakan berwarna hitam), sedikit pala, kunyit, kencur, kayu manis, asam, daun lemon, cengkih, dan daun salam.</item>
+        <item>Serabi adalah jajanan tradisional yang berasal dari Indonesia yang diperkirakan sudah dikenal sejak zaman Kerajaan Mataram. Panganan ini beberapa kali disebut dalam Serat Centhini, yang ditulis para pujangga keraton Surakarta selama 1814-1823 atas perintah Pakubuwana V, sebagai sesaji dalam prosesi ijab atau pernikahan, ruwahan, dan terutama kudapan. Pada tembang (pupuh) ke-157 bait 18, diceritakan bahwa serabi merupakan salah satu dari sekian banyak jenis jajanan yang dijajakan di halaman rumah pada saat pertunjukan wayang kulit di malam hari. Disebutkan pula, bahwa sembilan macam serabi juga merupakan bagian dari aneka penganan yang perlu disiapkan sebagai sajen dalam pertunjukan wayang dan ruwatan.</item>
+    </string-array>
+    <string-array name="data_context">
+        <item>Coto Makassar merupakan kuliner khas dari Sulawesi Selatan. Sajian coto ini sebenarnya tak berbeda jauh dengan jenis soto dari daerah lain di nusantara. Tapi, Coto Makassar memiliki kekhasan berupa bumbu rempah dan kacang untuk membuat kuah yang kental. Biasanya coto dimakan bersama ketupat, kacang, ditaburi daun bawang dan perasan jeruk nipis. </item>
+        <item>Meskipun sejarah nasi goreng bukan asli nusantara, menu kuliner ini berhasil bercampur dengan budaya setempat. Bahkan nasi goreng menjadi menu kuliner nusantara khas daerah di Indonesia. Seperti nasi goreng babat terkenal di daerah Jawa Tengah tepatnya di kota Semarang.</item>
+        <item>Nasi padang adalah kuliner yang berasal dari Minangkabau, Sumatera Barat. Kuliner yang berupa nasi dengan lauk-pauk berbumbu rempah ini mudah dijumpai di seluruh Indonesia bahkan di mancanegara.  Hal itu karena, budaya orang Minangkabau yang senang merantau dan berjualan nasi padang sebagai salah satu sumber mata pencaharian. Kemudian, ada faktor peristiwa sejarah yang mendasar orang Minangkabau keluar dari daerahnya.</item>
+        <item>Pempek adalah makanan yang terbuat dari daging ikan yang digiling lembut yang dicampur tepung kanji atau tepung sagu, serta komposisi beberapa bahan lain seperti telur, bawang putih yang dihaluskan, penyedap rasa, dan garam. Pempek biasanya disajikan dengan kuah yang disebut cuka yang memiliki rasa asam, manis, dan pedas.</item>
+        <item>Soto Banjar adalah soto khas suku Banjar, Kalimantan Selatan dengan bahan utama daging ayam serta memiliki aroma harum rempah-rempah seperti kayu manis, biji pala, dan cengkih. Soto ini berisi daging ayam yang sudah disuwir-suwir, dengan tambahan perkedel, kentang rebus, rebusan telur, potongan wortel dan ketupat. Seperti halnya soto ayam, bumbu soto Banjar berupa bawang merah, bawang putih dan merica, tetapi tidak memakai kunyit. Bumbu ditumis lebih dulu dengan sedikit minyak goreng atau minyak samin hingga harum sebelum dimasukkan ke dalam kuah rebusan ayam. Rempah-rempah nantinya diangkat agar tidak ikut masuk ke dalam mangkuk sewaktu dihidangkan.</item>
+        <item>Rendang kuliner khas Minangkabau Sumatra Barat adalah hidangan berbahan dasar daging yang dihasilkan dari proses memasak suhu rendah dalam waktu lama dengan menggunakan aneka rempah-rempah dan santan. Proses memasaknya memakan waktu berjam-jam (biasanya sekitar empat jam) hingga yang tinggal hanyalah potongan daging berwarna hitam pekat dan dedak. Dalam suhu ruangan, rendang dapat bertahan hingga berminggu-minggu. Rendang yang dimasak dalam waktu yang lebih singkat dan santannya belum mengering disebut kalio, berwarna cokelat terang keemasan.</item>
+        <item>Bika ambon adalah kue tradisional khas Medan, Indonesia. Kue ini terbuat dari bahan-bahan seperti tepung tapioka, telur, gula, dan santan. Bika ambon dimasak selama 12 jam agar dapat bertahan dalam kondisi terbaik dan sesuai apa yang diinginkan selama empat hari karena setelahnya kue tersebut mulai mengeras. Kue basah ini biasanya memiliki jaring-jaring pada bagian dalam. Bika ambon juga dijual dengan berbagai varian rasa, seperti pandan, coklat, keju, dan lain-lain.</item>
+        <item>Mi aceh adalah masakan mi pedas khas Aceh di Indonesia. Mi kuning tebal dengan irisan daging sapi, daging kambing atau makanan laut (udang dan cumi) disajikan dalam sup sejenis kari yang gurih dan pedas. Mi aceh biasanya ditaburi dengan bawang goreng dan disajikan bersama emping, potongan bawang merah, mentimun, dan jeruk nipis. Mi aceh biasanya disajikan dalam tiga bentuk yaitu mi kuah, mi goreng basah, dan mi goreng kering.</item>
+        <item>Sup konro atau Pallu konro adalah masakan sup iga sapi khas Indonesia yang berasal dari tradisi Etnik Makassar. Sup ini biasanya dibuat dengan bahan iga sapi atau daging sapi. Masakan berkuah warna coklat kehitaman ini biasa dimakan dengan burasa dan ketupat yang dipotong-potong terlebih dahulu. Warna gelap ini berasal dari buah kluwek yang memang berwarna hitam. Bumbunya relatif "kuat" akibat digunakannya ketumbar. Rasa pedas dan berbumbu ini dibuat dari campuran rempah-rempah, seperti ketumbar, keluwak (buah yang menyebabkan masakan berwarna hitam), sedikit pala, kunyit, kencur, kayu manis, asam, daun lemon, cengkih, dan daun salam.</item>
+        <item>Serabi adalah jajanan tradisional yang berasal dari Indonesia yang diperkirakan sudah dikenal sejak zaman Kerajaan Mataram. Panganan ini beberapa kali disebut dalam Serat Centhini, yang ditulis para pujangga keraton Surakarta selama 1814-1823 atas perintah Pakubuwana V, sebagai sesaji dalam prosesi ijab atau pernikahan, ruwahan, dan terutama kudapan. Pada tembang (pupuh) ke-157 bait 18, diceritakan bahwa serabi merupakan salah satu dari sekian banyak jenis jajanan yang dijajakan di halaman rumah pada saat pertunjukan wayang kulit di malam hari. Disebutkan pula, bahwa sembilan macam serabi juga merupakan bagian dari aneka penganan yang perlu disiapkan sebagai sajen dalam pertunjukan wayang dan ruwatan.</item>
+    </string-array>
+    <string-array name="data_recipe">
+        <item>Cara Membuat Coto Makassar:
+        1. Rebus daging dan paru-paru secara terpisah hingga empuk. Tiriskan daging dan paru. Sisihkan kaldu daging sebanyak 1 liter
+        2. Tumbuk atau giling halus kacang tanah sangrai. Sisihkan.
+        3. Tumis bumbu halus hingga wangi. Tambahkan lengkuas, jahe, daun jeruk, daun salam dan serai. Aduk hingga wangi. Angkat.
+        4. Masukkan ke dalam panci, tambahkan kaldu daging, kacang tanah halus, potongan daging dan paru. Masak dengan api kecil hingga bumbu meresap.
+        5. Tuangkan air cucian beras dan gula. Masak hingga kuah kental dan bumbu meresap. Matikan api.
+        6. Sajikan dengan Pelengkapnya.</item>
+        <item>Cara membuat Nasi Goreng:
+        1. Siapkan penggorengan dengan api sedang, tuang margarin atau minyak goreng.
+        2. Masukkan bawang putih dan daun bawang yang sudah dicincang halus. Tumis hingga berbau harum atau hingga warnanya keemasan.
+        3. Masukkan sosis dan 1 butir telur ayam. Tumis sebentar.
+        4. Masukkan bumbu halus dan nasi. Aduk hingga tercampur rata.
+        5. Tuang kecap manis, saus sambal, saus tiram, garam, dan kaldu bubuk. Aduk hingga warna nasi berubah secara merata.
+        6. Nasi goreng biasa yang sederhana dan enak siap disajikan.</item>
+        <item>Cara Membuat Nasi Padang
+            1. Potong-potong daging sapi berlemak, lalu rebus sampai empuk. Tiriskan.
+        2. Didihkan air dalam panci, rebus nangka muda sebentar untuk menghilangkan getahnya, tiriskan.
+        3. Rebus santan encer, lalu masukan bumbu halus, salam, serai, daun jeruk, dan daun kunyit.
+        4. Masukan daging sapi, masak sampai mendidih dan beraroma harum, aduk-aduk sampai dagingnya cukup empuk.
+        5. Masukkan nangka, kacang panjang, dan kol, aduk rata. Beri garam, asam kandis, dan kaldu sapi bubuk, koreksi rasa. Masak sampai mendidih dan semuanya matang, kemudian angkat.
+        6. Daun Singkong Rebus: Didihkan air, beri garam. Masukkan daun singkong, rebus sampai empuk, angkat, tiriskan, peras airnya.
+        7. Telur Dadar Padang: Tumis bumbu halus dengan 1 sendok makan minyak sampai wangi, angkat, sisihkan
+        8. Kocok rata telur, masukkan irisan daun bawang, daun kunyit, kelapa parut, tepung beras, garam, merica, kaldu bubuk, dan bumbu halus.
+        9. Panaskan minyak yang agak banyak dalam wajan sampai benar-benar panas, masukkan kocokan telur, kecilkan api, tutup wajan. Goreng dengan api kecil sampai kokoh, balik perlahan, lanjutkan menggoreng sampai matang dan garing di kedua sisinya.
+        10. Ayam Goreng Padang: Siapkan wajan cekung, masukkan ayam, bumbu halus, daun salam, daun jeruk, serai, garam, dan air. Aduk sampai bumbu rata. Masak sampai ayam matang dan empuk, tapi jangan sampai habis airnya.
+        11. Sisihkan ayamnya ke pinggir wajan, masukkan telur kocok, aduk cepat agar jangan bergumpal besar. Aduk rata kembali dengan ayam, masak dengan api kecil sampai air menyusut, matikan api.
+        12. Goreng ayam dan bumbunya dengan minyak agak banyak sampai kuning kecoklatan.
+        13. Sambalado Hijau: Potong kasar cabe, bawang merah, bawang putih, tomat hijau, kemudian kukus sebentar.
+        14. Blender kasar semua bahan yang sudah dikukus. Panaskan minyak, tumis sambal dan daun jeruk sampai harum. Matikan kompor.
+        15. Tata nasi di piring, tata mengelilingi sayur nangka, daun singkong rebus, ayam goreng padang, dan sambalado hijau. Siap disajikan.</item>
+        <item>Cara Membuat Pempek
+            1. Campur tepung terigu, tepung tapioka, telur, bawang putih, garam, gula, dan kaldu. Uleni dengan menuang air sedikit demi sedikit.
+            2. Bentuk adonan bulat memanjang.
+            3. Didihkan air yang diberi sedikit air. Masukkan adonan pempek. Rebus hingga mengapung. Angkat dan tiriskan.
+            4. Panaskan minyak goreng. Goreng empek-empek hingga kecokelatan. Angkat dan sajikan.</item>
+        <item>Cara membuat soto banjar
+            1. Rebus ayam di dalam air berisi daun salam, garam, dan jahe hingga ayam matang dan empuk. Kemudian angkat dan suwir-suwir dagingnya.
+            2. Didihkan air kaldu ayam untuk kuah soto menggunakan api kecil, sisihkan.
+            3. Tumis bumbu halus hingga harum lalu tambahkan kapulaga, kayu manis, cengkeh, dan pala. Aduk kembali hingga semua bahan tercampur rata.
+            4. Masukkan bumbu tumisan ke dalam kuah kaldu mendidih, lalu didihkan kembali kuah soto.
+            5. Masukkan potongan ketupat, soun, perkedel, telur, dan ayam suwir ke dalam mangkuk, lalu siram dengan kuah soto. Sajikan soto banjar dengan tambahan daun bawang, seledri, bawang goreng, kecap, dan jeruk nipis.</item>
+        <item>Cara membuat rendang daging khas Padang:
+            1. Tumis bumbu halus dan kelapa parut sangrai. Aduk rata.
+            2. Masukkan daun salam, daun jeruk, daun kunyit, dan serai. Masak hingga beraroma harum.
+            3. Masukkan daging. Aduk rata.
+            4. Tuang santan. Aduk rata.
+            5. Masak rendang dengan api kecil hingga rendang mengering.</item>
+        <item>Cara Membuat Bika Ambon
+            1.Didihkan santan bersama daun jeruk, serai, dan daun pandan.Saring bahan, lalu diamkan hingga hangat kuku.
+            2. Campurkan ragi dan gula dalam air hangat, tutup dengan kain bersih.Biarkan proses fermentasi berlangsung selama kira-kira 10 menit.
+            3. Campurkan tepung tapioka, tepung terigu, gula, serta kunyit atau pewarna makanan. Aduk rata.
+            4. Tambahkan campuran ragi yang sudah fermentasi, setengah bagian santan, aduk dengan mixer kecepatan sedang.
+            5. Setelah tercampur rata, tuangkan sisa santan dan tambahkan telur yang sudah dikocok.
+            6. Aduk lagi hingga rata, lalu tambahkan margarin cair.
+            7. Campurkan hingga adonan rata.
+            8. Tutup adonan dengan kain bersih selama 1 jam.
+            9. Oles cetakan dengan margarin tipis-tipis.
+            10. Kemudian panaskan cetakan kue lumpur dengan api kecil.
+            11. Setelah cetakan panas, tuang adonan hingga ¾ bagian cetakan saja.Biarkan terbuka sampai permukaan adonan agak kering.
+            12. Setelah muncul rongga-rongga, tutup cetakan selama kurang lebih 3-5 menit.Angkat dan sajikan kue Bika Ambon mini.</item>
+        <item>Cara Membuat Mie Aceh
+            1. Siapkan wadah yang cukup besar dengan air yang cukup panas.
+            2. Masukan air panas ke dalam wadah tersebut bersama dengan mie basah.
+            3. Tunggu hingga mie basah tersebut cukup matang, kemudian angkat dan tiriskan.Siapkan piring atau mangkok saji.
+            4. Tempatkan mie yang telah matang di atas piring saji.
+            5. Siram dengan kuah kaldu.Campurkan bumbu dan mie tersebut sampai merata dan tercampur dengan baik.
+            6. Tata emping dan acar sebagai pemanis dan pelengkap.
+            7. Sajikan selagi hangat.</item>
+        <item>Cara Membuat Sop Konro
+            1. Langkah pertama dalam memasak sop konro adalah rebus iga dengan 2 liter air, daun salam, daun jeruk, dan serai hingga daging lunak.
+            2. Tumis bumbu halus dengan 3 sendok makan minyak sampai matang dan berubah warna. Kemudian masukkan keluak, aduk sebentar. Lalu tuangkan bumbu ke panci daging. Masak hingga semua bumbu meresap dan iga sapi matang sempurna.
+            3. Sisahkan air rebusan iga sebanyak 750 ml, lalu masukkan air asam dan didihkan kembali.</item>
+        <item>Cara Membuat Serabi
+            1. Campur semua bahan B dan aduk rata.
+            2. Masukkan santan yang sudah hangat tadi secara perlahan.
+            3. Jika sudah tercampur rata, diamkan 1 jam.
+            4. Setelah 1 jam, siapkan wajan, lalu siap dimasak.</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/coto_makassar</item>
+        <item>@drawable/nasi_goreng</item>
+        <item>@drawable/nasi_padang</item>
+        <item>@drawable/pempek</item>
+        <item>@drawable/soto_banjar</item>
+        <item>@drawable/rendang</item>
+        <item>@drawable/bika_ambon</item>
+        <item>@drawable/mie_aceh</item>
+        <item>@drawable/sop_konro</item>
+        <item>@drawable/serabi</item>
+    </integer-array>
+</resources>
